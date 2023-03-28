@@ -1,0 +1,26 @@
+-----------------------------------------
+Quadcept NCDrill File Report
+-----------------------------------------
+
+NCDrill File Report For : LM393.qproj\PCB1
+-----------------------------------------
+PCB1_NCDrill.drl
+-----------------------------------------
+
+Format : Excellon
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+Mirror : None
+Prefix : 
+OutputType[SlotDrill] : Sequential 0.1000
+
+------------------------------------------------------------------------
+Tool  HoleType  Size    Tolerance  Angle  Layer       Plated  Quantity  
+------------------------------------------------------------------------
+T01   Round     0.3000  +-0.0000   0      Top-Bottom  Plated  2         
+T02   Round     0.9000  +-0.0000   0      Top-Bottom  Plated  2         
+T03   Round     1.0000  +-0.0000   0      Top-Bottom  Plated  5         

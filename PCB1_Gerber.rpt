@@ -1,0 +1,142 @@
+-----------------------------------------
+Quadcept Gerber File Report
+-----------------------------------------
+
+Gerber File Report For : LM393.qproj\PCB1
+-----------------------------------------
+PCB1_TopPattern.gbr
+PCB1_TopSilk.gbr
+PCB1_TopSolder.gbr
+PCB1_TopPaste.gbr
+PCB1_BottomPattern.gbr
+PCB1_BottomSilk.gbr
+PCB1_BottomSolder.gbr
+PCB1_BottomPaste.gbr
+PCB1_Board.gbr
+-----------------------------------------
+
+Format : RS-274X
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Prefix : 
+CoordinateOmitted  : On
+MacroAperture  : On
+
+-----------------------------------------
+
+-----------------------------------------
+
+PCB1_TopPattern.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.15
+D11 Circle 0.6
+D12 Circle 1.4
+D13 Circle 1.5
+D14 Rectangle 1.19 X 1.19
+D15 Rectangle 1.4 X 1.4
+D16 Rectangle 1.5 X 1.5
+D17 Rectangle 1.01 X 1.21
+D18 Rectangle 1.21 X 1.01
+D19 Rectangle 1.47 X 0.35
+D20 Rectangle 1.9 X 0.55
+
+-----------------------------------------
+
+PCB1_TopSilk.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+
+-----------------------------------------
+
+PCB1_TopSolder.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.7
+D11 Circle 1.6
+D12 Circle 1.7
+D13 Rectangle 1.29 X 1.29
+D14 Rectangle 1.6 X 1.6
+D15 Rectangle 1.7 X 1.7
+D16 Rectangle 1.11 X 1.31
+D17 Rectangle 1.31 X 1.11
+D18 Rectangle 1.57 X 0.45
+D19 Rectangle 2.0 X 0.65
+
+-----------------------------------------
+
+PCB1_TopPaste.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Rectangle 1.19 X 1.19
+D11 Rectangle 1.01 X 1.21
+D12 Rectangle 1.21 X 1.01
+D13 Rectangle 1.47 X 0.35
+D14 Rectangle 1.9 X 0.55
+
+-----------------------------------------
+
+PCB1_BottomPattern.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.15
+D11 Circle 0.6
+D12 Circle 1.4
+D13 Circle 1.5
+D14 Rectangle 1.4 X 1.4
+D15 Rectangle 1.5 X 1.5
+
+-----------------------------------------
+
+PCB1_BottomSilk.gbr
+
+Offset : (0,0)
+Mirror : None
+
+No Data...
+
+-----------------------------------------
+
+PCB1_BottomSolder.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.7
+D11 Circle 1.6
+D12 Circle 1.7
+D13 Rectangle 1.6 X 1.6
+D14 Rectangle 1.7 X 1.7
+
+-----------------------------------------
+
+PCB1_BottomPaste.gbr
+
+Offset : (0,0)
+Mirror : None
+
+No Data...
+
+-----------------------------------------
+
+PCB1_Board.gbr
+
+Offset : (0,0)
+Mirror : None
+
+No Data...
+
